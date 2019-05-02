@@ -8,6 +8,7 @@ During this project I learned more about:
 * Spring DevTools
 * Spring Parent/Starters 
 * Hibernate Native API
+* Entity Manager
 * Using Postman
 * REST
 * HTTP Requests/Responses
